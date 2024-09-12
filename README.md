@@ -19,16 +19,17 @@ This project features a collection of classic board games implemented in VBA (Vi
    - Clone the repository:
    ```bash
    git clone https://github.com/eliottcoint/VBA_Project.git
-Or download the files directly from GitHub.
+   ```
+   - Or download the files directly from GitHub.
 
 2. **Open in Excel:**
-- Open the Excel workbook where the games are located.
-- Press Alt + F11 to open the VBA editor and explore the code if needed.
+   - Open the Excel workbook where the games are located.
+   - Press `Alt + F11` to open the VBA editor and explore the code if needed.
 
 3. **Running the Games:**
-- **Battleship:** Open the corresponding sheet and start the game by following the on-screen instructions.
-- **Connect 4:** Navigate to the Connect 4 sheet, where you can play against another player.
-- **Noughts and Crosses (Tic-Tac-Toe):** Go to the Tic-Tac-Toe sheet to begin a quick match.
+   - **Battleship:** Open the corresponding sheet and start the game by following the on-screen instructions.
+   - **Connect 4:** Navigate to the Connect 4 sheet, where you can play against another player.
+   - **Noughts and Crosses (Tic-Tac-Toe):** Go to the Tic-Tac-Toe sheet to begin a quick match.
 
 ## Game Instructions
 - **Battleship:**
@@ -42,7 +43,7 @@ Or download the files directly from GitHub.
 Contributions are welcome! If you have suggestions for improving the games or adding new features, feel free to fork the repository and submit a pull request.
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
-For any questions, suggestions, or feedback, feel free to reach out via my GitHub profile.
+For any questions, suggestions, or feedback, feel free to reach out via my [GitHub profile](https://github.com/eliottcoint).
